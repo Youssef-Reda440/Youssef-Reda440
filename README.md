@@ -1,16 +1,15 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="GitHub Profile Header">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi,%20I'm%20Youssef" />
 
-<h1 align="center">Hi 👋, I'm Youssef Reda</h1>
+<h1 align="center">I'm Youssef Reda 👋</h1>
 
 <p align="center">
 Undergraduate Computer & Systems Engineer <br>
-Interested in Software Development, Cyber Security & Problem Solving
+Interested in Cyber Security & Ethical Hacking
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -35,8 +34,8 @@ Interested in Software Development, Cyber Security & Problem Solving
 - Java & Data Structures  
 - Problem Solving  
 - Linux & Command Line  
-- Cyber Security & Bug Bounty (Beginner Level)  
-- Databases & Backend Basics  
+- Cyber Security (Beginner)  
+- Databases
 
 ---
 
